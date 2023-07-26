@@ -1,7 +1,7 @@
 <?php
 
 /*
-front end controller
+dh el class el by3rfna el controller w el action w el params w byshghl el controller w kol haga dh 3asab el project
  */
 
 
