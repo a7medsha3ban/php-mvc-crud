@@ -13,5 +13,4 @@ class View{
             echo "This view: ".$view_name . " doesn't exist";
         }
     }
-    
 }

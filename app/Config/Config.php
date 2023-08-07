@@ -1,2 +1,13 @@
 <?php
-// dh mas2ol 3n el db w el hagat deh
+
+//define site url
+
+define("BURL","http://mvc.local/");
+
+
+/* Database Configurations */
+
+define("HOST","localhost");
+define("USER","root");
+define("PASSWORD","");
+define("DBNAME","mvc_db");
